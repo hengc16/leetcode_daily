@@ -1,2 +1,2 @@
-# Initial page
+# LeetCode daily Challenge
 
