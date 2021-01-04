@@ -7,4 +7,5 @@
     * [Check Array Formation Through Concatenation](jan/week-1/check-array-formation-through-concatenation.md)
     * [Palindrome PermutationSolution](jan/week-1/palindrome-permutationsolution.md)
     * [Beautiful Arrangement](jan/week-1/beautiful-arrangement.md)
+    * [Merge Two Sorted Lists](jan/week-1/merge-two-sorted-lists.md)
 
