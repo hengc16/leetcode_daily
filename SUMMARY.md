@@ -8,4 +8,5 @@
     * [Palindrome PermutationSolution](jan/week-1/palindrome-permutationsolution.md)
     * [Beautiful Arrangement](jan/week-1/beautiful-arrangement.md)
     * [Merge Two Sorted Lists](jan/week-1/merge-two-sorted-lists.md)
+    * [Remove Duplicates from Sorted List IISolution](jan/week-1/remove-duplicates-from-sorted-list-iisolution.md)
 
