@@ -9,4 +9,5 @@
     * [Beautiful Arrangement](jan/week-1/beautiful-arrangement.md)
     * [Merge Two Sorted Lists](jan/week-1/merge-two-sorted-lists.md)
     * [Remove Duplicates from Sorted List IISolution](jan/week-1/remove-duplicates-from-sorted-list-iisolution.md)
+    * [Longest Substring Without Repeating Characters](jan/week-1/longest-substring-without-repeating-characters.md)
 
