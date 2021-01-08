@@ -12,4 +12,5 @@
     * [Longest Substring Without Repeating Characters](jan/week-1/longest-substring-without-repeating-characters.md)
   * [Week2](jan/week2/README.md)
     * [Check If Two String Arrays are Equivalent](jan/week2/check-if-two-string-arrays-are-equivalent.md)
+    * [Find Root of N-Ary Tree](jan/week2/find-root-of-n-ary-tree.md)
 
