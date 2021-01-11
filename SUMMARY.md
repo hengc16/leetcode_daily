@@ -15,4 +15,5 @@
     * [Check If Two String Arrays are Equivalent](jan/week2-1/check-if-two-string-arrays-are-equivalent.md)
     * [Word Ladder](jan/week2-1/week2.md)
     * [Create Sorted Array through Instructions](jan/week2-1/create-sorted-array-through-instructions.md)
+    * [Merge Sorted Array](jan/week2-1/merge-sorted-array.md)
 
