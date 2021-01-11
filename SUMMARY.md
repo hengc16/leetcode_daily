@@ -10,7 +10,9 @@
     * [Merge Two Sorted Lists](jan/week-1/merge-two-sorted-lists.md)
     * [Remove Duplicates from Sorted List IISolution](jan/week-1/remove-duplicates-from-sorted-list-iisolution.md)
     * [Longest Substring Without Repeating Characters](jan/week-1/longest-substring-without-repeating-characters.md)
-  * [Word Ladder](jan/week2/README.md)
-    * [Check If Two String Arrays are Equivalent](jan/week2/check-if-two-string-arrays-are-equivalent.md)
-    * [Find Root of N-Ary Tree](jan/week2/find-root-of-n-ary-tree.md)
+  * [week2](jan/week2-1/README.md)
+    * [Find Root of N-Ary Tree](jan/week2-1/find-root-of-n-ary-tree.md)
+    * [Check If Two String Arrays are Equivalent](jan/week2-1/check-if-two-string-arrays-are-equivalent.md)
+    * [Word Ladder](jan/week2-1/week2.md)
+    * [Create Sorted Array through Instructions](jan/week2-1/create-sorted-array-through-instructions.md)
 
