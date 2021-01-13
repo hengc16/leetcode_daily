@@ -17,4 +17,5 @@
     * [Create Sorted Array through Instructions](jan/week2-1/create-sorted-array-through-instructions.md)
     * [Merge Sorted Array](jan/week2-1/merge-sorted-array.md)
     * [Add Two Numbers](jan/week2-1/add-two-numbers.md)
+    * [Boats to Save People](jan/week2-1/boats-to-save-people.md)
 
