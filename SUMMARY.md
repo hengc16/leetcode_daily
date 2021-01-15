@@ -18,4 +18,5 @@
     * [Merge Sorted Array](jan/week2-1/merge-sorted-array.md)
     * [Add Two Numbers](jan/week2-1/add-two-numbers.md)
     * [Boats to Save People](jan/week2-1/boats-to-save-people.md)
+    * [Minimum Operations to Reduce X to Zero](jan/week2-1/minimum-operations-to-reduce-x-to-zero.md)
 
