@@ -19,4 +19,6 @@
     * [Add Two Numbers](jan/week2-1/add-two-numbers.md)
     * [Boats to Save People](jan/week2-1/boats-to-save-people.md)
     * [Minimum Operations to Reduce X to Zero](jan/week2-1/minimum-operations-to-reduce-x-to-zero.md)
+  * [week3](jan/week3/README.md)
+    * [Get Maximum in Generated Array](jan/week3/get-maximum-in-generated-array.md)
 
